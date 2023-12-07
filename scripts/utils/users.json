@@ -1,0 +1,44 @@
+{
+"users":[
+    {
+        "id":1,
+        "userName":"Galit123",
+        "password":"123456",
+        "userDetails":{
+            "fname":"Galit",
+            "lname":"Menachem",
+            "age":44
+        }
+    },
+    {
+        "id":2,
+        "userName":"Shay456",
+        "password":"456789",
+        "userDetails":{
+            "fname":"Shay",
+            "lname":"Menachem",
+            "age":48
+        }
+    },
+    {
+        "id":3,
+        "userName":"Morya159",
+        "password":"159263",
+        "userDetails":{
+            "fname":"Morya",
+            "lname":"Menachem",
+            "age":20           
+        }
+    },
+    {
+        "id":4,
+        "userName":"Dvir987",
+        "password":"987412",
+        "userDetails":{
+            "fname":"Dvir",
+            "lname":"Menachem",
+            "age":17            
+        }
+    }
+]
+}

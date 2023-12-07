@@ -1,0 +1,52 @@
+#container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid blue;
+    width: fit-content;
+    padding: 1%;
+}
+#container input[type="text"] {
+    margin-bottom: 10px;
+    padding: 15px;
+    font-size: large;
+    color: blue;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 15px;
+}
+
+#cotainer{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+.action-btn{
+    border-radius: 20px;
+    padding: 10px;
+    font-size: large;
+    background-color: rgb(177, 231, 177);
+    margin-left:10px;
+}
+h1{
+    color:navy;
+}
+
+.Register-box{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 177, 0.7);
+    transition: 0.5s;
+    width: 40%;
+    border-radius: 20px;
+}
+
+.grad {
+    background-image: linear-gradient(to right, rgba(13, 39, 239, 0.7), rgb(0, 234, 255));
+  }
