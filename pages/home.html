@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PROFFESIONALS PAGE</title>
     <link rel="stylesheet" href="../styles/home.css">
+    
 </head>
 <body>
     <div id="head">
@@ -17,16 +18,30 @@
     <div id="searchBar">
         <label for="">SEARCH BY</label>
         <select name="" id="filter">
+            <option value="" id="">SEARCH BY</option>
+            <option value="fname" id="fname">first name</option>
+            <option value="lname" id="lname">last name</option>
+            <option value="rank" id="rank">rank</option>
+            <option value="area" id="area">location</option>
+        </select>
+        <button id="btn1">SELECT</button>
+        <label for="" id="search" style="visibility: hidden;">SEARCH FOR EXPERT</label>
+        <input type="search" name="" id="search1" style="visibility: hidden;">
+        <select name="" id="search2" style="visibility: hidden;">
             <option value="" id="">select search topic</option>
             <option value="fname" id="fname">first name</option>
             <option value="lname" id="lname">last name</option>
             <option value="rank" id="rank">rank</option>
-            <option value="location" id="location">location</option>
+            <option value="area" id="area">location</option>
         </select>
-        <button id="btn1">SELECT</button>
-        <!-- <label for="">SEARCH FOR EXPERT</label>
-        <input type="search" name="" id="search">
-        <button id="btn2">SEARCH</button> -->
+        <select name="" id="search3" style="visibility: hidden;">
+            <option value="" id="">select search topic</option>
+            <option value="fname" id="fname">first name</option>
+            <option value="lname" id="lname">last name</option>
+            <option value="rank" id="rank">rank</option>
+            <option value="area" id="area">location</option>
+        </select>
+        <button id="btn2" style="visibility: hidden;">SEARCH</button>
     </div>
     <div id="experts">
 
@@ -36,14 +51,6 @@
 
 
 
-    <script src="../scripts/home.js"></script>
+    <script type="module" src="../scripts/home.js"></script>
 </body>
 </html>
-<img id="" src="">
-<ul class="card${x}">
-    <li>first name: </li>
-    <li>last name:</li>
-    <li>proffesion</li>
-    <li><a href="">more info...</a></li>
-</ul>
-<span></span>
