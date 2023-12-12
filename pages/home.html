@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PROFFESIONALS PAGE</title>
+    <title>PROFESsIONALS PAGE</title>
     <link rel="stylesheet" href="../styles/home.css">
     
 </head>
@@ -16,33 +16,45 @@
 
     </div>
     <div id="searchBar">
-        <label for="">SEARCH BY</label>
-        <select name="" id="filter">
-            <option value="" id="">SEARCH BY</option>
-            <option value="fname" id="fname">first name</option>
-            <option value="lname" id="lname">last name</option>
-            <option value="rank" id="rank">rank</option>
-            <option value="area" id="area">location</option>
+        <div>
+        <label for="">SEARCH BY NAME</label>
+        <input type="search" id="namesearch" placeholder="first or last name">
+        <button id="btn100">SEARCH</button>
+    </div>
+        <div>
+        <label for="" id="searchloc" >SEARCH BY LOCATION</label>
+            <select name="" id="search1" >
+            <option value="" id="">select location</option>
+            <option value="north" id="north">NORTH</option>
+            <option value="south" id="south">SOUTH</option>
+            <option value="center" id="center">CENTER</option>
         </select>
-        <button id="btn100">SELECT</button>
-        
-        <label for="" id="search" style="visibility: hidden;">SEARCH FOR EXPERT</label>
-        <input type="search" name="" id="search1" style="visibility: hidden;">
-        <select name="" id="search2" style="visibility: hidden;">
-            <option value="" id="">select search topic</option>
-            <option value="fname" id="fname">first name</option>
-            <option value="lname" id="lname">last name</option>
-            <option value="rank" id="rank">rank</option>
-            <option value="area" id="area">location</option>
+        <button id="btn200" >SEARCH</button>
+    </div>
+    <div>
+        <label for="" id="searchrank" >SEARCH BY RANK</label>
+        <select name="" id="search2" >
+            <option value="" id="">select prefered rank</option>
+            <option value="three" id="three">3 stars and up</option>
+            <option value="four" id="four">4 stars and up</option>
+            <option value="five" id="five">5 stars</option>
         </select>
-        <select name="" id="search3" style="visibility: hidden;">
-            <option value="" id="">select search topic</option>
-            <option value="fname" id="fname">first name</option>
-            <option value="lname" id="lname">last name</option>
-            <option value="rank" id="rank">rank</option>
-            <option value="area" id="area">location</option>
+        <button id="btn300" >SEARCH</button>
+    </div>
+    <div>
+        <label for="" id="searchprof" >SEARCH BY PROFESSION</label>
+        <select name="" id="search3" >
+            <option value="" id="">select prefered profession</option>
+            <option value="accountant" id="accountant">accountant</option>
+            <option value="carpenter" id="carpenter">carpenter</option>
+            <option value="data" id="data">data analist</option>
+            <option value="electrician" id="electrician">electrician</option>
+            <option value="lawyer" id="lawyer">lawyer</option>
+            <option value="painter" id="painter">painter</option>
+            <option value="plumber" id="plumber">plumber</option>
         </select>
-        <button id="btn200" style="visibility: hidden;">SEARCH</button>
+        <button id="btn400">SEARCH</button>
+    </div>
     </div>
     <div id="experts">
 

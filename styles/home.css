@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(133, 164, 250);
+}
 #experts{
     display: flex;
     flex-wrap: wrap;
@@ -10,7 +13,7 @@
     list-style-type: none;
     margin: 10px;
     padding: 5px;
-    background-color: beige;
+    background-color: rgb(189, 203, 242);
 }
 li{
     margin-top: 5px;
@@ -20,4 +23,38 @@ li{
 span{
     font-weight: bold;
     color: brown;
+}
+ul button{
+    background-color:rgb(189, 203, 242); 
+    border: none;
+    margin-top: 5px;
+}
+label {
+    margin: 5px;
+    width: 300px;
+    
+}
+input{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 200px;
+}
+select{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 200px;
+}
+#btn100, #btn200, #btn300, #btn400{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+#head, #searchBar{
+    width: fit-content;
+    margin: auto;
+}
+h1, h3{
+    text-align: center;
 }

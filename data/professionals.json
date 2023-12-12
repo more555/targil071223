@@ -2,7 +2,7 @@
 [
     {
     
-    "photo":"../media/geizenkot.jpeg",
+    "photo":"../media/geizenkot.jpg",
     "fname": "Gadi",
     "lname": "Aizenkot",
     "proffesion":"carpenter",
@@ -12,12 +12,13 @@
     "buisness":"g.a wood crafts",
     "price":"100-200",
     "rank":3, 
-    "id":1
+    "id":1,
+    "href":"https://he.wikipedia.org/wiki/%D7%92%D7%93%D7%99_%D7%90%D7%99%D7%96%D7%A0%D7%A7%D7%95%D7%98"
 
 },
     {
     
-    "photo":"../media/bgantz.jpeg",
+    "photo":"../media/bgantz.jpg",
     "fname": "Benni",
     "lname": "Gantz",
     "proffesion":"electrician",
@@ -27,12 +28,13 @@
     "buisness":"the gantzer",
     "price":"unavailable",
     "rank":4,
-    "id":2
+    "id":2,
+    "href":"https://he.wikipedia.org/wiki/%D7%91%D7%A0%D7%99_%D7%92%D7%A0%D7%A5"
 
 },
     {
     
-    "photo":"../media/dhalutz.jpeg",
+    "photo":"../media/dhalutz.jpg",
     "fname": "Dan",
     "lname": "Halutz",
     "proffesion":"lawyer",
@@ -42,12 +44,13 @@
     "buisness":"Pioneer lawyers",
     "price":"400-800",
     "rank":4,
-    "id":3
+    "id":3,
+    "href":"https://he.wikipedia.org/wiki/%D7%93%D7%A0%D7%99_%D7%97%D7%9C%D7%95%D7%A5"
 
 },
     {
     
-    "photo":"../media/ebarak.jpeg",
+    "photo":"../media/ebarak.jpg",
     "fname": "Ehud",
     "lname": "Barak",
     "proffesion":"plumber",
@@ -57,12 +60,13 @@
     "buisness":"lightning plumber LTD",
     "price":"200-1200",
     "rank":3,
-    "id":4
+    "id":4,
+    "href":"https://he.wikipedia.org/wiki/%D7%90%D7%94%D7%95%D7%93_%D7%91%D7%A8%D7%A7"
 
 },
     {
     
-    "photo":"../media/dshomron.jpeg",
+    "photo":"../media/dshomron.jpg",
     "fname": "Dan",
     "lname": "Shomron",
     "proffesion":"accountant",
@@ -72,12 +76,13 @@
     "buisness":"Dan ad eilat accountants",
     "price":"350-1000",
     "rank":5,
-    "id":5
+    "id":5,
+    "href":"https://he.wikipedia.org/wiki/%D7%93%D7%9F_%D7%A9%D7%95%D7%9E%D7%A8%D7%95%D7%9F"
 
 },
     {
     
-    "photo":"../media/reitan.jpeg",
+    "photo":"../media/reitan.jpg",
     "fname": "Refael",
     "lname": "Eitan",
     "proffesion":"Data analist",
@@ -87,12 +92,13 @@
     "buisness":"Raful data science",
     "price":"1000-1500",
     "rank":5,
-    "id":6
+    "id":6,
+    "href":"https://he.wikipedia.org/wiki/%D7%A8%D7%A4%D7%90%D7%9C_%D7%90%D7%99%D7%AA%D7%9F"
 
 },
     {
     
-    "photo":"../media/smofaz.jpeg",
+    "photo":"../media/smofaz.jpg",
     "fname": "Shaul",
     "lname": "Mofaz",
     "proffesion":"painter",
@@ -102,12 +108,13 @@
     "buisness":"mofaz painters ltd",
     "price":"varies",
     "rank":5,
-    "id":7
+    "id":7,
+    "href":"https://he.wikipedia.org/wiki/%D7%A9%D7%90%D7%95%D7%9C_%D7%9E%D7%95%D7%A4%D7%96"
 
 },
     {
     
-    "photo":"../media/alifkin.jpeg",
+    "photo":"../media/alifkin.jpg",
     "fname": "Amnon",
     "lname": "Lipkin-Shahak",
     "proffesion":"lawyer",
@@ -117,12 +124,13 @@
     "buisness":"lipkin-shahak law firm",
     "price":"500-900",
     "rank":4,
-    "id":8
+    "id":8,
+    "href":"https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%A0%D7%95%D7%9F_%D7%9C%D7%99%D7%A4%D7%A7%D7%99%D7%9F-%D7%A9%D7%97%D7%A7"
 
 },
     {
     
-    "photo":"../media/ydory.jpeg",
+    "photo":"../media/ydory.jpg",
     "fname": "Yaakov",
     "lname": "Dory",
     "proffesion":"electrician",
@@ -132,12 +140,13 @@
     "buisness":"dory systems",
     "price":"varies",
     "rank":2,
-    "id":9
+    "id":9,
+    "href":"https://he.wikipedia.org/wiki/%D7%99%D7%A2%D7%A7%D7%91_%D7%93%D7%95%D7%A8%D7%99"
 
 },
     {
     
-    "photo":"../media/mlevi.jpeg",
+    "photo":"../media/mlevi.jpg",
     "fname": "Moshe",
     "lname": "Levi",
     "proffesion":"accountant",
@@ -147,12 +156,13 @@
     "buisness":"the acountant",
     "price":"800-1000",
     "rank":3,
-    "id":10
+    "id":10,
+    "href":"https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%94_%D7%9C%D7%95%D7%99"
 
 },
     {
     
-    "photo":"../media/myeelon.jpeg",
+    "photo":"../media/myeelon.jpg",
     "fname": "Moshe",
     "lname": "Ye`elon",
     "proffesion":"carpenter",
@@ -162,12 +172,13 @@
     "buisness":"boogie beds",
     "price":"1500-3500",
     "rank":4,
-    "id":11
+    "id":11,
+    "href":"https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%94_%D7%99%D7%A2%D7%9C%D7%95%D7%9F"
 
 },
     {
     
-    "photo":"../media/geizenkot.jpeg",
+    "photo":"../media/gashkenazi.jpg",
     "fname": "Gabi",
     "lname": "Ashkenazi",
     "proffesion":"painter",
@@ -177,12 +188,13 @@
     "buisness":"gavriel paintings",
     "price":"1400-1800",
     "rank":5,
-    "id":12
+    "id":12,
+    "href":"https://he.wikipedia.org/wiki/%D7%92%D7%91%D7%99_%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99"
 
 },
     {
     
-    "photo":"../media/delazar.jpeg",
+    "photo":"../media/delazar.jpg",
     "fname": "David",
     "lname": "El`azar",
     "proffesion":"plumber",
@@ -192,12 +204,13 @@
     "buisness":"dado shirutim",
     "price":"200-1200",
     "rank":5,
-    "id":13
+    "id":13,
+    "href":"https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%93_%D7%90%D7%9C%D7%A2%D7%96%D7%A8"
 
 },
     {
     
-    "photo":"../media/hBar-Lev.jpeg",
+    "photo":"../media/hBar-Lev.jpg",
     "fname": "Haim",
     "lname": "Bar lev",
     "proffesion":"lawyer",
@@ -207,12 +220,13 @@
     "buisness":"me`ozim lwyers",
     "price":"300-800",
     "rank":4,
-    "id":14
+    "id":14,
+    "href":"https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%99%D7%9D_%D7%91%D7%A8-%D7%9C%D7%91"
 
 },
     {
     
-    "photo":"../media/mgur.jpeg",
+    "photo":"../media/mgur.jpg",
     "fname": "Mordechay",
     "lname": "Gur",
     "proffesion":"electrician",
@@ -222,12 +236,13 @@
     "buisness":"mota smart home",
     "price":"varies",
     "rank":4,
-    "id":15
+    "id":15,
+    "href":"https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%92%D7%95%D7%A8"
 
 },
     {
     
-    "photo":"../media/ttzur.jpeg",
+    "photo":"../media/ttzur.jpg",
     "fname": "Tzvi",
     "lname": "Tzur",
     "proffesion":"carpenter",
@@ -237,12 +252,13 @@
     "buisness":"tzvika doors",
     "price":"1000-2500",
     "rank":3,
-    "id":16
+    "id":16,
+    "href":"https://he.wikipedia.org/wiki/%D7%A6%D7%91%D7%99_%D7%A6%D7%95%D7%A8"
 
 },
     {
     
-    "photo":"../media/hlaskov.jpeg",
+    "photo":"../media/hlaskov.jpg",
     "fname": "Haim",
     "lname": "Leskov",
     "proffesion":"lawyer",
@@ -252,12 +268,13 @@
     "buisness":"bahad 1 lawyers",
     "price":"250-800",
     "rank":5,
-    "id":17
+    "id":17,
+    "href":"https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%99%D7%9D_%D7%9C%D7%A1%D7%A7%D7%95%D7%91"
 
 },
     {
     
-    "photo":"../media/mdayan.jpeg",
+    "photo":"../media/mdayan.jpg",
     "fname": "Moshe",
     "lname": "Dayan",
     "proffesion":"accountant",
@@ -267,7 +284,8 @@
     "buisness":"dayan family accountants",
     "price":"500-1000",
     "rank":5,
-    "id":18
+    "id":18,
+    "href":"https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%94_%D7%93%D7%99%D7%99%D7%9F"
 
 },
     {
@@ -282,12 +300,13 @@
     "buisness":"star home security",
     "price":"varies",
     "rank":4,
-    "id":19
+    "id":19,
+    "href":"https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%99%D7%91_%D7%9B%D7%95%D7%9B%D7%91%D7%99"
 
 },
     {
     
-    "photo":"../media/mmaklef.jpeg",
+    "photo":"../media/mmaklef.jpg",
     "fname": "Mordechay",
     "lname": "Maklef",
     "proffesion":"carpenter",
@@ -297,12 +316,13 @@
     "buisness":"m&m closets",
     "price":"2500-5000",
     "rank":5,
-    "id":20
+    "id":20,
+    "href":"https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%9E%D7%A7%D7%9C%D7%A3"
 
 },
     {
     
-    "photo":"../media/iyadin.jpeg",
+    "photo":"../media/iyadin.jpg",
     "fname": "Igael",
     "lname": "Yadin",
     "proffesion":"lawyer",
@@ -312,7 +332,8 @@
     "buisness":"yyy lawyers",
     "price":"1000 (fixed price)",
     "rank":5,
-    "id":21
+    "id":21,
+    "href":"https://he.wikipedia.org/wiki/%D7%99%D7%92%D7%90%D7%9C_%D7%99%D7%93%D7%99%D7%9F"
 
 }
 ]}
