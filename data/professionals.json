@@ -9,8 +9,8 @@
     "location":"north",
     "experience":"40 years" ,
     "specialties":"small furnitures",
-    "buisness name":"g.a wood crafts",
-    "price range":"100-200",
+    "buisness":"g.a wood crafts",
+    "price":"100-200",
     "rank":3, 
     "id":1
 
@@ -24,8 +24,8 @@
     "location":"center",
     "experience":"35 years",
     "specialties":"electrical boards",
-    "buisness name":"the gantzer",
-    "price range":"unavailable",
+    "buisness":"the gantzer",
+    "price":"unavailable",
     "rank":4,
     "id":2
 
@@ -36,11 +36,11 @@
     "fname": "Dan",
     "lname": "Halutz",
     "proffesion":"lawyer",
-    "location":"haifa",
+    "location":"north",
     "experience":"25 years",
     "specialties":"criminal law",
-    "buisness name":"Y. Cohen lawyers",
-    "price range":"400-800",
+    "buisness":"Pioneer lawyers",
+    "price":"400-800",
     "rank":4,
     "id":3
 
@@ -54,8 +54,8 @@
     "location":"south",
     "experience":"10 years",
     "specialties":"none",
-    "buisness name":"manor plumber LTD",
-    "price range":"200-1200",
+    "buisness":"lightning plumber LTD",
+    "price":"200-1200",
     "rank":3,
     "id":4
 
@@ -69,8 +69,8 @@
     "location":"south",
     "experience":"24 years",
     "specialties":"taxes",
-    "buisness name":"Dani eilat accountants",
-    "price range":"350-1000",
+    "buisness":"Dan ad eilat accountants",
+    "price":"350-1000",
     "rank":5,
     "id":5
 
@@ -84,8 +84,8 @@
     "location":"north",
     "experience":"2 years",
     "specialties":"none",
-    "buisness name":"Raful data science",
-    "price range":"1000-1500",
+    "buisness":"Raful data science",
+    "price":"1000-1500",
     "rank":5,
     "id":6
 
@@ -99,8 +99,8 @@
     "location":"israel - all",
     "experience":"30 years",
     "specialties":"high buildings",
-    "buisness name":"mofaz painters ltd",
-    "price range":"varies",
+    "buisness":"mofaz painters ltd",
+    "price":"varies",
     "rank":5,
     "id":7
 
@@ -114,8 +114,8 @@
     "location":"center",
     "experience":"15 years",
     "specialties":"finance",
-    "buisness name":"lipkin-shahak law firm",
-    "price range":"500-900",
+    "buisness":"lipkin-shahak law firm",
+    "price":"500-900",
     "rank":4,
     "id":8
 
@@ -129,8 +129,8 @@
     "location":"north",
     "experience":"25 years",
     "specialties":"photo volage systems",
-    "buisness name":" dory systems",
-    "price range":"varies",
+    "buisness":"dory systems",
+    "price":"varies",
     "rank":2,
     "id":9
 
@@ -144,8 +144,8 @@
     "location":"center",
     "experience":"12 years",
     "specialties":"salary",
-    "buisness name":"the acountant",
-    "price range":"800-1000",
+    "buisness":"the acountant",
+    "price":"800-1000",
     "rank":3,
     "id":10
 
@@ -159,8 +159,8 @@
     "location":"south",
     "experience":"25 years",
     "specialties":"bed rooms",
-    "buisness name":"boogie beds",
-    "price range":"1500-3500",
+    "buisness":"boogie beds",
+    "price":"1500-3500",
     "rank":4,
     "id":11
 
@@ -174,8 +174,8 @@
     "location":"south",
     "experience":"none",
     "specialties":"none",
-    "buisness name":"gavriel paintings",
-    "price range":"1400-1800",
+    "buisness":"gavriel paintings",
+    "price":"1400-1800",
     "rank":5,
     "id":12
 
@@ -189,8 +189,8 @@
     "location":"center",
     "experience":"10 years",
     "specialties":"sinks and baths",
-    "buisness name":"dado shirutim",
-    "price range":"200-1200",
+    "buisness":"dado shirutim",
+    "price":"200-1200",
     "rank":5,
     "id":13
 
@@ -204,8 +204,8 @@
     "location":"north",
     "experience":"12 years",
     "specialties":"family affairs",
-    "buisness name":"me`ozim lwyers",
-    "price range":"300-800",
+    "buisness":"me`ozim lwyers",
+    "price":"300-800",
     "rank":4,
     "id":14
 
@@ -219,8 +219,8 @@
     "location":"center",
     "experience":"40 years",
     "specialties":"smart home",
-    "buisness name":" mota smart home",
-    "price range":"varies",
+    "buisness":"mota smart home",
+    "price":"varies",
     "rank":4,
     "id":15
 
@@ -234,8 +234,8 @@
     "location":"center",
     "experience":"2 years",
     "specialties":"inhouse doors",
-    "buisness name":"tzvika door",
-    "price range":"1000-2500",
+    "buisness":"tzvika doors",
+    "price":"1000-2500",
     "rank":3,
     "id":16
 
@@ -249,8 +249,8 @@
     "location":"south",
     "experience":"24 years",
     "specialties":"labor law",
-    "buisness name":"bahad 1 lawyers",
-    "price range":"250-800",
+    "buisness":"bahad 1 lawyers",
+    "price":"250-800",
     "rank":5,
     "id":17
 
@@ -264,8 +264,8 @@
     "location":"north",
     "experience":"25 years",
     "specialties":"tax plans",
-    "buisness name":"dayan family accountants",
-    "price range":"500-1000",
+    "buisness":"dayan family accountants",
+    "price":"500-1000",
     "rank":5,
     "id":18
 
@@ -279,8 +279,8 @@
     "location":"israel - all",
     "experience":"10 years",
     "specialties":"home security",
-    "buisness name":"star home security",
-    "price range":"varies",
+    "buisness":"star home security",
+    "price":"varies",
     "rank":4,
     "id":19
 
@@ -294,8 +294,8 @@
     "location":"north",
     "experience":"20 years",
     "specialties":"closets",
-    "buisness name":"m&m closets",
-    "price range":"2500-5000",
+    "buisness":"m&m closets",
+    "price":"2500-5000",
     "rank":5,
     "id":20
 
@@ -309,8 +309,8 @@
     "location":"center",
     "experience":"24 years",
     "specialties":"lows of tort",
-    "buisness name":"yyy lawyers",
-    "price range":"1000 (fixed price)",
+    "buisness":"yyy lawyers",
+    "price":"1000 (fixed price)",
     "rank":5,
     "id":21
 

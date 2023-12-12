@@ -1,4 +1,4 @@
-localStorage.setItem("currentUserData", "1")
+// localStorage.setItem("currentUserData", "1")
 // localStorage.removeItem("currentUserData")
 // localStorage.removeItem("current")
 // localStorage.removeItem("photo")
@@ -9,23 +9,18 @@ if (!(localStorage.getItem("currentUserData"))) {
     xhr.open("GET", "../data/professionals.json", true);
     xhr.onload = function () {
         localStorage.setItem("Experts", this.responseText);
+
+     
     }
+    
     xhr.send();
     //NEEDS FIXING redirects to experts.html page 
-    function dispExpert(index) {
-       
-        if (localStorage.getItem("current")) {
-            localStorage.removeItem("current")
-        }
-        localStorage.setItem("current", JSON.stringify(expertsArr[index]));
-        window.location.href = "../pages/experts.html";
-       
-    }
+    
 // shows the cards of the xperts
-
+ let expertsArr = JSON.parse(localStorage.getItem("Experts"));
     function showExperts() {
         let expertsDiv = document.getElementById("experts")
-        let expertsArr = JSON.parse(localStorage.getItem("Experts"));
+       
         expertsArr = expertsArr.proffesionals
         console.log(expertsArr);
         for (let x in expertsArr) {
@@ -35,8 +30,10 @@ if (!(localStorage.getItem("currentUserData"))) {
     <li>first name: <span>${expertsArr[x].fname}</span></li>
     <li>last name: <span>${expertsArr[x].lname}</span></li>
     <li>proffesion: <span>${expertsArr[x].proffesion}</span></li>
-    <button id="btn${x}" onclick="dispExpert(${x})">more info...</button>)
+    <button id="btn${x}">more info...</button>
 </ul>`;
+let btn = document.getElementById(`btn${x}`);
+    btn.setAttribute("onclick", `dispExpert(${x})`)
 
             let img = document.getElementById(`pic${x}`)
             switch (expertsArr[x].proffesion) {
@@ -75,6 +72,15 @@ if (!(localStorage.getItem("currentUserData"))) {
         
     }
     showExperts();
+    
+    function dispExpert(index) {
+        localStorage.removeItem("current")
+
+    
+        localStorage.setItem("current", JSON.stringify(expertsArr[index]));
+        window.location.href = "../pages/experts.html";
+       
+    }   
 
 
     

@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(133, 164, 250);
+}
+h1{
+    width: fit-content;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 45px;
+}
+table{
+    border: 2px black solid;
+    padding: 3%;
+    width: 750px;    
+    margin:auto;
+    margin-top: 10%;
+}
+td{
+    margin-left: 20px;
+}
+span{
+    display: block;
+}
+img{
+    width:200px;
+}
+#list{
+    
+    margin-left: 20%;
+}
+ul{
+    list-style-type: square;
+    font-size: x-large;
+    
+}
+#listtd{
+    width: fit-content;
+}
+li{
+    margin-bottom: 7px;
+}
+li span{
+    display: inline;
+    
+}
